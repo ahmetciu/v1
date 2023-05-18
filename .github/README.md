@@ -1,4 +1,4 @@
-# Heroku
+# هيروكو
 
 The easiest way to deploy this Bot
 
